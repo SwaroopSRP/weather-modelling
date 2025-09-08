@@ -1,2 +1,2 @@
 # weather-modelling
-Ye mujhse bina matlab karaaya ja raha hai
+Quadratic Weather Model Prediction
